@@ -1,9 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Tariq Raheem</h1>
+<h1 align="center">Hi there, I'm Tariq Raheem</h1>
 
 <p align="center">
-  🌟 Software Engineering Student | 💻 Frontend Developer @ Qutham Technologies  
-  <br>
-  🌍 Passionate about tech that helps people and makes a difference
+  Software Engineering Student | Frontend Developer @ Qutham Technologies
 </p>
 
 ---
