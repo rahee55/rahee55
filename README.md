@@ -15,7 +15,7 @@
 
 ## 📈 GitHub Stats
 
-![Tariq's GitHub stats](https://github-readme-stats.vercel.app/api?username=TariqRaheem&show_icons=true&theme=radical)
+![Tariq's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahee55&show_icons=true&theme=radical)
 
 ---
 
