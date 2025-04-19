@@ -48,7 +48,7 @@
 ### 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TariqRaheem&theme=radical&margin-w=10&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rahee55&theme=radical&margin-w=10&no-frame=true" alt="GitHub Trophies" />
 </p>
 
 ---
