@@ -3,18 +3,8 @@
 <p align="center">
   🌟 Software Engineering Student | 💻 Frontend Developer @ Qutham Technologies  
   <br>
-  🧠 Building <a href="https://github.com/TariqRaheem/JusticeMate" target="_blank">JusticeMate</a> – AI-Powered Legal Assistant for All
   🌍 Passionate about tech that helps people and makes a difference
 </p>
-
----
-
-### 🏆 Achievements
-
-- 🚀 Successfully launched multiple Angular-based dashboards at Qutham Technologies
-- 📱 Built *JusticeMate*, an AI legal advisor for low-income communities
-- 🥇 1st place in university-level hackathon for smart city solutions
-- 👨‍🏫 Taught frontend basics to over 30 junior developers in bootcamps
 
 ---
 
@@ -26,7 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" alt="Angular"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="TailwindCSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="TailwindCSS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/>
