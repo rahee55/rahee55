@@ -45,6 +45,14 @@
 
 ---
 
+### 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TariqRaheem&theme=radical&margin-w=10&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+---
+
 ### Connect With Me
 
 - 🔗 [LinkedIn](https://linkedin.com/in/tariq-raheem/)
