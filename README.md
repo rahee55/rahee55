@@ -8,7 +8,7 @@
 
 ---
 
-### ⚒️ Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
@@ -24,7 +24,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahee55&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
@@ -34,27 +34,28 @@
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me
 
 - 🔗 [LinkedIn](https://linkedin.com/in/tariq-raheem/)
 - 📧 rahee.programmer@gmail.com
 
 ---
 
-### 🧠 Currently Learning
+### Currently Learning
 
 - 📚 Advanced Angular architecture & state management (NgRx)
 - 🎨 UI/UX Design for accessible and inclusive apps
+- 🤖 Generative AI
 - 🤖 AI integrations using OpenAI APIs
 
 ---
 
-### 💡 Fun Quote
+### Fun Quote
 
 > *“Code is not just instructions to a machine — it’s a story you tell the future.”*
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TariqRaheem&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile View Counter" />
+  <img src="https://komarev.com/ghpvc/?username=rahee55&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile View Counter" />
 </p>
