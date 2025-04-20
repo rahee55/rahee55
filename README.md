@@ -45,7 +45,7 @@
 
 ---
 
-### 🏅 GitHub Trophies
+### GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rahee55&theme=gruvbox&column=7&margin-w=10&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies"/>
@@ -74,7 +74,3 @@
 > *“Code is not just instructions to a machine — it’s a story you tell the future.”*
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahee55&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile View Counter" />
-</p>
