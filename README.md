@@ -55,9 +55,14 @@
 
 ### Connect With Me
 
-- 🔗 [LinkedIn](https://linkedin.com/in/tariq-raheem/)
-- 📧 rahee.programmer@gmail.com
-
+<p align="left">
+  <a href="https://linkedin.com/in/tariq-raheem/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin"/>
+  </a>
+  <a href="rahee.programmer@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
 ---
 
 ### Currently Learning
