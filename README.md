@@ -31,6 +31,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40" height="40" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40" height="40" alt="Netlify"/>
+
+  <!-- Games -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phaser/phaser-original.svg" width="40" height="40" alt="Phaser"/>
 </p>
 
 
