@@ -33,7 +33,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40" height="40" alt="Netlify"/>
 
   <!-- Games -->
-  <img src="https://seeklogo.com/images/P/phaser-logo-306104.png" width="40" height="40" alt="Phaser Logo"/>
+  <img src="path-to-your-hosted-logo.png" width="40" height="40" alt="Phaser Logo"/>
 </p>
 
 
